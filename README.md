@@ -8,3 +8,6 @@
  - Colab에서는 무료로 GPU를 제공하여 학습하는데 문제없이 사용이 가능합니다.
  - 그러나 강의 자료의 이미지 파일이 Colab에서는 깨져서 나오고, Jupyter notebook에서는 문제없이 출력됩니다.
  - 따라서 **실행은 `Colab`에서** 하고, **강의 내용-이론 학습은 대부분 `Jupyter notebook` 에서** 진행합니다.
+
+## Tensorflow 설치
+`pip install tensorflow`
