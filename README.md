@@ -13,7 +13,7 @@
 `pip install tensorflow`
 <br>Jupyter notebook cell 에서 -> `!pip install tensorflow`
 
-## Colab 사용 (CNN model)
+## Colab 사용 (ex..CNN model,...)
 - `CNN(Convolution Neural Network)` 학습부터 연산량이 상당히 많기 때문에
 - 많은 Epoch 수를 설정할수록 시간이 오래 걸린다.
 - 따라서, **`Colab`** 환경에서, GPU를 사용해서 해당 시간을 줄여준다.
