@@ -11,7 +11,7 @@
 
 ## Tensorflow 설치
 `pip install tensorflow`
-Jupyter notebook cell 에서 -> `!pip install tensorflow`
+<br>Jupyter notebook cell 에서 -> `!pip install tensorflow`
 
 ## Colab 사용 (CNN model)
 - `CNN(Convolution Neural Network)` 학습부터 연산량이 상당히 많기 때문에
